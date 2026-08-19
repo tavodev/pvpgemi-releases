@@ -6,19 +6,19 @@
   "platforms": {
     "macos-arm64": {
       "url": "https://github.com/tavodev/pvpgemi-releases/releases/download/v1.1.0/pvpgemi-v1.1.0-macos.zip",
-      "sha256": "19f21f8e2ec64944628519d217866720601f5ec329fdd4d737f37884ae12a304"
+      "sha256": "a421fba84e25e18cc017d0269b08c269bace0f6be7aae4af4ef33277d0c4f915"
     },
     "macos-x86_64": {
       "url": "https://github.com/tavodev/pvpgemi-releases/releases/download/v1.1.0/pvpgemi-v1.1.0-macos.zip",
-      "sha256": "19f21f8e2ec64944628519d217866720601f5ec329fdd4d737f37884ae12a304"
+      "sha256": "a421fba84e25e18cc017d0269b08c269bace0f6be7aae4af4ef33277d0c4f915"
     },
     "windows-x64": {
       "url": "https://github.com/tavodev/pvpgemi-releases/releases/download/v1.1.0/pvpgemi-v1.1.0-windows-x64.zip",
-      "sha256": "98c757a911ec4d86f7a2f511c2bc93d45cb1a28bc893d30cd266cd884fa6b7b8"
+      "sha256": "2e2fc1dd2364f217eebc30f963411f019614a20d7a06844b79a32b965f11ec1c"
     },
     "linux-x86_64": {
       "url": "https://github.com/tavodev/pvpgemi-releases/releases/download/v1.1.0/pvpgemi-v1.1.0-linux-x86_64.tar.gz",
-      "sha256": "f347e250d5ae538b4a3e5f89f27a0bc9118d46f69ba38de480ca89b9a12d66d7"
+      "sha256": "abe8e141c43928d18d0863ae989d74b4ea345a212e008d9e16f9b735c1b76729"
     }
   }
 }

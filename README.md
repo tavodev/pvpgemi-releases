@@ -93,17 +93,80 @@ En el menú principal:
 | Mirar / Apuntar | Ratón |
 | Disparar | `Clic Izquierdo` |
 | Dash / Impulso | `Espacio` o `Clic Derecho` |
+| Salto vertical 3D | `C` o `R` |
 | Tabla de puntuaciones | Mantener `TAB` |
+| Menú de Ajustes / Pausa | `ESC` |
 | Pantalla completa | `F11` o `Alt + Enter` |
-| Captura de pantalla | `F12` |
-| Volver al menú | `ESC` |
+| Captura de pantalla HD | `F12` |
+
+---
+
+## ⚡ Arsenal y Hologramas 3D
+
+Todos los objetos y armas flotan en la arena como hologramas 3D identificados con placas flotantes superiores legibles a distancia:
+
+| Categoría | Armas / Ítems | Efecto Especial |
+| :--- | :--- | :--- |
+| **Estándar** | Pistola, Rifle de Asalto, Escopeta, Subfusil Dual | Balística directa para combate cercano y medio alcance. |
+| **Pesadas** | Francotirador de Riel, Lanzamisiles, Minigun | Alto impacto, daño de área y fuego de saturación. |
+| **Exóticas 🔥** | **Cañón Tesla** | Ráfagas continuas de arco voltaico de alta velocidad (920 m/s). |
+| **Exóticas 🔥** | **Lanza Hojas (Sawblade)** | Discos de plasma que rebotan hasta 3 veces en paredes. |
+| **Exóticas 🔥** | **Cañón de Vórtice** | Dispara una singularidad gravitatoria que succiona a los rivales. |
+| **Power-Ups** | Botiquín (+40 HP), Escudo (+35), Sobrecarga Speed | Curación inmediata, blindaje y multiplicadores temporales. |
+
+---
+
+## 🔥 Combos de Multi-Kills y Rachas de Bajas
+
+Eliminar enemigos de forma consecutiva (<4.0s) o encadenar bajas sin morir activa fanfarrias sonoras y banners centrales:
+
+- **Multi-Kills**: `DOUBLE KILL` (x2), `TRIPLE KILL` (x3), `QUAD KILL` (x4), `CYBER SLAYER` (x5+).
+- **Rachas de Bajas**: `KILLING SPREE` (3), `RAMPAGE` (5), `DOMINATING` (7), `GODLIKE` (10).
+
+---
+
+## 🎨 Personalización de Personaje / Operativo
+
+¡Dile adiós a ser todos iguales! Ahora puedes personalizar completamente la identidad visual de tu operativo antes de entrar a la arena:
+
+Pulsa **`PERSONALIZAR OPERATIVO`** en el menú principal o durante la pausa para abrir el **Estudio de Personalización 3D**:
+
+- **Color de Armadura Primario (10 Opciones)**: Cyan Neón, Rojo Carmesí, Verde Ácido, Amarillo Cyber, Magenta Synthwave, Naranja Eléctrico, Púrpura Sombrío, Blanco Ártico, Negro Midnight, Dorado Apex.
+- **Color de Visor / Neón (8 Opciones)**: Azul Neón, Rojo Furia, Amarillo Sol, Verde Matrix, Violeta Neón, Naranja Fuego, Rosa Cyber, Blanco Puro.
+- **Estilo de Armadura (4 Clases con siluetas 3D únicas)**:
+  - *Vanguard*: Coraza táctica equilibrada y hombreras modulares.
+  - *Juggernaut*: Blindaje reforzado pesado, placa pectoral y hombreras dobles masivas.
+  - *Cyber Ninja*: Placas aerodinámicas biseladas y aletas dorsales cortantes.
+  - *Striker*: Alas de propulsión y toberas de enfriamiento neón.
+- **Accesorio de Casco / Cabeza (6 Opciones)**:
+  - *Visor Táctico*: Visera de combate reforzada.
+  - *Cuernos Oni*: Cuernos cibernéticos con puntas luminosas.
+  - *Corona Neón*: Halo holográfico suspendido sobre el casco.
+  - *Cyber Mohawk*: Cresta energética vertical de alto impacto.
+  - *Antenas Comm*: Doble antena táctica con balizas de comunicación.
+  - *Goggles Tri-Eye*: Sensor óptico de visión nocturna con triple lente.
+- **Vista Previa 3D Interactiva**: Haz clic y arrastra con el ratón en la ventana 3D para rotar a tu personaje 360° en tiempo real sobre el pedestal cibernético, y usa la rueda del ratón para hacer zoom.
+- **Bots IA Únicos**: Los bots ahora también tienen apariencias y colores temáticos distintos entre sí según su nombre.
+- **Identificación en Partida**: Los colores de armadura y visor se reflejan en el modelo 3D, en las placas holográficas sobre la cabeza, en la brújula táctica y en la tabla de puntuaciones (`TAB`).
+
+---
+
+## ⚙️ Menú de Ajustes y Opciones
+
+Pulsa **`AJUSTES / OPCIONES`** en el menú o **`ESC`** durante la partida para configurar:
+- **Sensibilidad de Ratón**: Ajuste fino del sensor.
+- **Campo de Visión (FOV)**: 60° a 110° para mayor visibilidad periférica.
+- **Volumen Master y SFX**: Control de mezcla de sintetizadores procedurales.
+- **Dificultad de Bots**: `FÁCIL`, `NORMAL`, `DESAFÍO`.
+- **Intensidad de Screen Shake**: Activa o suaviza el temblor de impacto.
+- *Los ajustes y la personalización se guardan automáticamente en `settings.cfg`.*
 
 ---
 
 ## 🏆 Cómo se gana
 
 La partida rota de arena automáticamente al llegar a **50 bajas** entre todos los
-jugadores. Recoge botiquines, escudos y mejoras de velocidad repartidos por el
-mapa, y vigila el radar del HUD: marca enemigos y objetos cercanos.
+jugadores. Recoge botiquines, escudos y mejoras repartidos por el
+mapa, y vigila la brújula táctica del HUD superior: marca enemigos y puntos cardinales.
 
 ¡Buena caza! 🔫
